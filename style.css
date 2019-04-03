@@ -1,0 +1,49 @@
+header{
+    text-align: center;
+    font-weight: 900;
+    border: 1px solid black;
+    width: 100%;
+    height: 15%;
+}
+#navbar{
+    text-align: center;
+    border: 1px solid black;
+    width: 100%;
+    height: 25%;
+    background-color: aquamarine;
+}
+
+li{
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    
+}
+
+#link{
+    text-decoration: none;
+    display:inline-block;
+}
+
+section{
+    border: 1px solid black;
+    width: 100%;
+    height: 25%;
+    text-align: center;
+}
+article{
+    border: 1px solid black;
+    width: 100%;
+    height: 25%;
+    text-align: center;
+}
+
+footer{
+    border: 1px solid black;
+    width: 100%;
+    height: 25%;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+
+}
